@@ -1,7 +1,7 @@
 # 💣 PAYORBIT — COMPLETE PROJECT BLUEPRINT
 
 > **What is PayOrbit?**  
-> A Splitwise-like app where friends can track shared expenses, settle debts, and manage personal spending — available as both a **mobile app** and a **web app**.
+> PayOrbit is a full-stack expense and settlement platform that tracks shared spending, calculates real-time balances, and enables instant in-app payments with automated debt resolution **mobile app** and **web app**.
 
 ---
 
